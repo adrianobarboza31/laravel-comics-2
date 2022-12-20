@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container-fluid">
-        <div class="row">
+        <div class="row g">
 
             <div class="col-2">
                 <h1>{{ $comics->title }}</h1>
